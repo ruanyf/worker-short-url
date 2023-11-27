@@ -11,6 +11,7 @@
 const urlObj = {
 	'blog': 'https://www.ruanyifeng.com/blog',
 	'github': 'https://github.com/ruanyf',
+	'twitter': 'https://twitter.com/ruanyf',
 };
 
 function response404() {
