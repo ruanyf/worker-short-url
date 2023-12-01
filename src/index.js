@@ -12,6 +12,7 @@ const urlObj = {
 	'blog': 'https://www.ruanyifeng.com/blog',
 	'github': 'https://github.com/ruanyf',
 	'twitter': 'https://twitter.com/ruanyf',
+  'spl': 'https://github.com/SPLWare/esProc',
 };
 
 function response404() {
